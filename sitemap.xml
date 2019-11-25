@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.uxdesign.pro/</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/home-tablet.jpg</image:loc>
+        <image:title>Lively and cheerful natural scenery, expressing joy and freedom.</image:title>
+      </image:image>
+	  <image:image>
+        <image:loc>https://www.uxdesign.pro/img/home-desktop.jpg</image:loc>
+        <image:title>Lively and cheerful natural scenery, expressing joy and freedom.</image:title>
+      </image:image>
+	  <image:image>
+        <image:loc>https://www.uxdesign.pro/img/home-mobile.jpg</image:loc>
+        <image:title>Lively and cheerful natural scenery, expressing joy and freedom.</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/about.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/sebbe-photo.jpg</image:loc>
+        <image:title>Sebbe, looking at you and smiling</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/sebbe-signature.svg</image:loc>
+        <image:title>Signature of Sebbe</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/projects.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/resume.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/featured.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/eazygrozr-title-small.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+	  <image:image>
+        <image:loc>https://www.uxdesign.pro/img/eazygrozr-title-big.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/design-process.svg</image:loc>
+        <image:title>The research-design-build spiral model of the iterative UX process, with the sequential process segments tagged and labelled 1 to 11.</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/index.html</loc>
+    <lastmod>2019-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/home-tablet.jpg</image:loc>
+        <image:title>Lively and cheerful natural scenery, expressing joy and freedom.</image:title>
+      </image:image>
+	  <image:image>
+        <image:loc>https://www.uxdesign.pro/img/home-desktop.jpg</image:loc>
+        <image:title>Lively and cheerful natural scenery, expressing joy and freedom.</image:title>
+      </image:image>
+	  <image:image>
+        <image:loc>https://www.uxdesign.pro/img/home-mobile.jpg</image:loc>
+        <image:title>Lively and cheerful natural scenery, expressing joy and freedom.</image:title>
+      </image:image>
+  </url>
+</urlset>

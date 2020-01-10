@@ -19,7 +19,7 @@ footer{border-top:2px solid #D5D5D5}
 @media all and (min-width:50rem){.footer-wrapper{max-width:70rem}
 }
 #about main,#casestudy1 main,#error main,#projects main,#resume main{background-color:#FFF}
-.content-filler{width:100%;height:2rem;position:fixed;top:6.5rem;z-index:10;background-color:#FFF;background-image:-webkit-linear-gradient(#FFF 20%,transparent);background-image:linear-gradient(#FFF 20%,transparent);}
+.content-filler{width:100%;height:2rem;position:fixed;top:6.5rem;z-index:10;background-image:-webkit-linear-gradient(#FFF 20%,transparent);background-image:linear-gradient(#FFF 20%,transparent);}
 @media all and (min-width:37rem){.content-filler{top:6rem}
 }
 @media all and (min-width:50rem){.content-filler{top:3.5rem}

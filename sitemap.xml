@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.uxdesign.pro/</loc>
+    <lastmod>2020-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/ux-design-pro.png</image:loc>
+        <image:title>Sebbe - UX Design Professional</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/index.html</loc>
+    <lastmod>2020-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/sebbe-photo.jpg</image:loc>
+        <image:title>Sebbe Isaac Kurian</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/projects.html</loc>
+    <lastmod>2020-04-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/resume.html</loc>
+    <lastmod>2020-04-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/ux-case-study-1.html</loc>
+    <lastmod>2020-04-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/ux-design-process.svg</image:loc>
+        <image:title>The Research-Design-Build iterative UX Process</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/404.html</loc>
+    <lastmod>2020-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

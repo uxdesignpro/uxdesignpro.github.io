@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.uxdesign.pro/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+	  <image:image>
+        <image:loc>https://www.uxdesign.pro/img/ux-design-pro.png</image:loc>
+        <image:title>Sebbe - UX Design Professional</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/a11y-phone.svg</image:loc>
+        <image:title>Accessible UX Design, for Digital Accessibility 01.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/a11y-tablet.svg</image:loc>
+        <image:title>Accessible UX Design, for Digital Accessibility 02.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/a11y-desktop.svg</image:loc>
+        <image:title>Accessible UX Design, for Digital Accessibility 03.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/sebbe-photo-big.jpg</image:loc>
+        <image:title>Sebbe Isaac Kurian</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/badge-cspo.png</image:loc>
+        <image:title>Certified Scrum Product Owner (CSPO), Scrum Certification, by Scrum Alliance.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/badge-cua.png</image:loc>
+        <image:title>Certified Usability Analyst (CUA), UX Certification HFI-CUA, by Human Factors International.</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/index.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/a11y-phone.svg</image:loc>
+        <image:title>Accessible UX Design, for Digital Accessibility 01.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/a11y-tablet.svg</image:loc>
+        <image:title>Accessible UX Design, for Digital Accessibility 02.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/a11y-desktop.svg</image:loc>
+        <image:title>Accessible UX Design, for Digital Accessibility 03.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/sebbe-photo-big.jpg</image:loc>
+        <image:title>Sebbe Isaac Kurian</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/badge-cspo.png</image:loc>
+        <image:title>Certified Scrum Product Owner (CSPO), Scrum Certification, by Scrum Alliance.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/badge-cua.png</image:loc>
+        <image:title>Certified Usability Analyst (CUA), UX Certification HFI-CUA, by Human Factors International.</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/projects.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/resume.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/accessibility.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.uxdesign.pro/ux-case-study-1.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.uxdesign.pro/img/ux-design-process.svg</image:loc>
+        <image:title>UX Design Process - UX Research and Design for Digital Product.</image:title>
+      </image:image>
+  </url>
+</urlset>
